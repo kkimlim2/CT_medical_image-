@@ -43,27 +43,32 @@ https://www.kaggle.com/kmader/siim-medical-images?select=dicom_dir
 <tr style="height: 19px;">
 <td style="width: 22.6356%; height: 19px; text-align: center;">9/25~9/26</td>
 <td style="width: 44.031%; height: 19px; text-align: center;">DICOM 파일 array로 전환 및 시각화&nbsp;</td>
-<td style="width: 33.3333%; height: 19px; text-align: center;"><a href="https://hyelimkungkung.tistory.com/47?category=935193" target="_blank" rel="noopener"><br />https://hyelimkungkung.tistory.com/47?category=935193&nbsp;&nbsp;</a></td>
+<td style="width: 33.3333%; height: 19px; text-align: center;"><a href="https://www.kaggle.com/chekoduadarsh/train-a-faster-rcnn-view-on-covid-19" target="_blank" rel="noopener"><br />https://hyelimkungkung.tistory.com/47?category=935193&nbsp;&nbsp;</a></td>
 </tr>
 <tr style="height: 19px;">
 <td style="width: 22.6356%; height: 19px; text-align: center;">9/27~9/29</td>
 <td style="width: 44.031%; height: 19px; text-align: center;">DataLoader 만들기&nbsp;</td>
-<td style="width: 33.3333%; height: 19px; text-align: center;"><a href="https://hyelimkungkung.tistory.com/48" target="_blank" rel="noopener"><br />https://hyelimkungkung.tistory.com/48&nbsp;&nbsp;</a>&nbsp;</td>
+<td style="width: 33.3333%; height: 19px; text-align: center;"><a href="https://hyelimkungkung.tistory.com/48" target="_blank" rel="noopener">https://hyelimkungkung.tistory.com/48</a></td>
 </tr>
 <tr style="height: 19px;">
-<td style="width: 22.6356%; height: 19px; text-align: center;">9/30~10/3</td>
-<td style="width: 44.031%; height: 19px; text-align: center;">모델 만들기&nbsp;</td>
-<td style="width: 33.3333%; height: 19px; text-align: center;">&nbsp;</td>
+<td style="width: 22.6356%; height: 19px; text-align: center;">9/30~10/2</td>
+<td style="width: 44.031%; height: 19px; text-align: center;">모델 만들기 + 훈련</td>
+<td style="width: 33.3333%; height: 19px; text-align: center;"><a href="https://hyelimkungkung.tistory.com/50" target="_blank" rel="noopener">https://hyelimkungkung.tistory.com/50</a></td>
 </tr>
 <tr style="height: 19px;">
-<td style="width: 22.6356%; text-align: center; height: 19px;">10/4</td>
+<td style="width: 22.6356%; text-align: center; height: 19px;">10/3</td>
 <td style="width: 44.031%; text-align: center; height: 19px;">성능 지표 계산하기&nbsp;</td>
-<td style="width: 33.3333%; text-align: center; height: 19px;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center; height: 19px;"><a href="https://hyelimkungkung.tistory.com/51" target="_blank" rel="noopener">https://hyelimkungkung.tistory.com/51</a></td>
+</tr>
+<tr>
+<td style="width: 22.6356%; text-align: center;">10/4</td>
+<td style="width: 44.031%; text-align: center;">Augmentation</td>
+<td style="width: 33.3333%; text-align: center;"><a href="https://hyelimkungkung.tistory.com/52" target="_blank" rel="noopener">https://hyelimkungkung.tistory.com/52</a></td>
 </tr>
 <tr style="height: 19px;">
 <td style="width: 22.6356%; text-align: center; height: 19px;">10/5~10/6</td>
 <td style="width: 44.031%; text-align: center; height: 19px;">결과 정리 및 시각화&nbsp;</td>
-<td style="width: 33.3333%; text-align: center; height: 19px;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center; height: 19px;"><a href="https://hyelimkungkung.tistory.com/53" target="_blank" rel="noopener">https://hyelimkungkung.tistory.com/53</a></td>
 </tr>
 </tbody>
 </table>
